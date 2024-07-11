@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import ProductList from './components/ProductList';
+import ProductList from './component/ProductList';
 import './App.css';
 
 function App() {
